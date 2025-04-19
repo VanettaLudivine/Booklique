@@ -1,0 +1,13 @@
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
+
+# Répertoires de compilation
+/build/
+*/build/
+
+# Fichiers générés par Android Studio
+.idea/
+.gradle/
+local.properties
